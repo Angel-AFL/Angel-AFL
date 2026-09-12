@@ -1,7 +1,10 @@
 
 <div align="center">
 
-# ¡Hola! Soy Angel Antonio Ferráez López 👨‍💻
+<h1>
+  ¡Hola! Soy Angel Antonio Ferráez López
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving" width="40" style="vertical-align: middle;" />
+</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+Multiplataforma;Entusiasta+de+la+Inteligencia+Artificial;Creador+de+Soluciones+Tecnológicas" alt="Typing SVG" />
