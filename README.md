@@ -2,11 +2,12 @@
 # Hola, soy Angel-AFL! 👋
 
 
-## 🚀 Acerca de mi
-Desarrollador de software multiplataforma con experiencia en el diseño, desarrollo e implementación de modelos de
-inteligencia artificial (Gemini, DeepSeek) así como el uso de agentes de programación para optimizar el ciclo de desarrollo.
-Acostumbrado a trabajar con diversas tecnologías y bases de datos (SQL y NoSQL). Busco aplicar mis conocimientos en
-desarrollo de software y metodologías ágiles para aportar valor en proyectos tecnológicos innovadores.
+## Acerca de mi
+**Desarrollador de software multiplataforma** enfocado en aportar valor a través de proyectos tecnológicos innovadores y metodologías ágiles.
+
+- 🤖 **Inteligencia Artificial:** Experiencia en el diseño, desarrollo e implementación de modelos de IA (*Gemini, DeepSeek*) y uso de agentes de programación para optimizar el ciclo de desarrollo.
+- 🗄️ **Gestión de Datos:** Acostumbrado a diseñar y operar arquitecturas robustas con bases de datos **SQL y NoSQL**.
+- 🚀 **Enfoque:** Optimización, aprendizaje continuo y creación de herramientas que resuelvan problemas reales.
 
 
 ## 🛠 Habilidades Técnicas
@@ -30,7 +31,7 @@ desarrollo de software y metodologías ágiles para aportar valor en proyectos t
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,obsidian,postman,vercel)](https://skillicons.dev)
 
 
-## Top lenguajes más utilizados
-![Top Languages](https://ghstats.dev/api/langs?username=Angel-AFL&max_langs=12)
-## Estadísticas de GitHub
+## 🌟 Top lenguajes más utilizados
+![Top Languages](https://ghstats.dev/api/langs?username=octocat&max_langs=12)
+## 📊 Estadísticas de GitHub
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Angel-AFL&show_ring=false)
