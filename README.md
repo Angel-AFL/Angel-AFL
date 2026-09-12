@@ -1,9 +1,22 @@
 
-# Hola, soy Angel-AFL! 👋
+<div align="center">
+
+# ¡Hola! Soy Angel Antonio Ferráez López 👨‍💻
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+Multiplataforma;Entusiasta+de+la+Inteligencia+Artificial;Creador+de+Soluciones+Tecnológicas" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img alt="Location" src="https://img.shields.io/badge/Mérida,%20Yucatán-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img alt="Degree" src="https://img.shields.io/badge/Ingeniería_en_Software-10B981?style=for-the-badge&logo=probot&logoColor=white"/>
+</p>
+
+</div>
 
 
 ## Acerca de mi
-**Desarrollador de software multiplataforma** enfocado en aportar valor a través de proyectos tecnológicos innovadores y metodologías ágiles.
+> **Desarrollador de software multiplataforma** enfocado en aportar valor a través de proyectos tecnológicos innovadores y metodologías ágiles.
 
 - 🤖 **Inteligencia Artificial:** Experiencia en el diseño, desarrollo e implementación de modelos de IA (*Gemini, DeepSeek*) y uso de agentes de programación para optimizar el ciclo de desarrollo.
 - 🗄️ **Gestión de Datos:** Acostumbrado a diseñar y operar arquitecturas robustas con bases de datos **SQL y NoSQL**.
