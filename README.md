@@ -31,6 +31,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,obsidian,postman,vercel)](https://skillicons.dev)
 
 
+![snake](https://raw.githubusercontent.com/Angel-AFL/Angel-AFL/output/snake-dark.svg)
 ## 🌟 Top lenguajes más utilizados
 ![Top Languages](https://ghstats.dev/api/langs?username=octocat&max_langs=12)
 ## 📊 Estadísticas de GitHub
