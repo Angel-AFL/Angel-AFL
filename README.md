@@ -9,6 +9,8 @@
 - 🗄️ **Gestión de Datos:** Acostumbrado a diseñar y operar arquitecturas robustas con bases de datos **SQL y NoSQL**.
 - 🚀 **Enfoque:** Optimización, aprendizaje continuo y creación de herramientas que resuelvan problemas reales.
 
+### Lenguajes más usados
+![Top Languages](https://ghstats.dev/api/langs?username=octocat&max_langs=12)
 
 ## 🛠 Habilidades Técnicas
 
@@ -32,7 +34,6 @@
 
 
 ![snake](https://raw.githubusercontent.com/Angel-AFL/Angel-AFL/output/snake-dark.svg)
-## 🌟 Top lenguajes más utilizados
-![Top Languages](https://ghstats.dev/api/langs?username=octocat&max_langs=12)
+
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Angel-AFL&show_ring=false)
