@@ -10,7 +10,7 @@
 - 🚀 **Enfoque:** Optimización, aprendizaje continuo y creación de herramientas que resuelvan problemas reales.
 
 ### Lenguajes más usados
-![Top Languages](https://ghstats.dev/api/langs?username=octocat&max_langs=12)
+![Top Languages](https://ghstats.dev/api/langs?username=Angel-AFL&max_langs=12)
 
 ## 🛠 Habilidades Técnicas
 
